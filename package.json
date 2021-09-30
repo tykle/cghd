@@ -11,6 +11,14 @@
   },
   "author": "Michael Vergoz (Tykle)",
   "license": "CC-BY-SA",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tykle/cghd.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tykle/cghd/issues"
+  },
+  "homepage": "https://github.com/tykle/cghd#readme",
   "devDependencies": {
     "@types/node": "^16.10.2",
     "prettier": "^2.4.1",
