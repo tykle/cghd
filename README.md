@@ -1,8 +1,9 @@
 # Cyclic Group Hashing Distribution CGHD-256
 Support for TypeScript / Javascript
 
+
 ```bash
-npm install cghd --save
+npm install @tykle/cghd --save
 ```
 
 ## Context
@@ -16,7 +17,7 @@ Consider a group of 100 machines that must select 5 machines that will be in cha
 Example using Javascript:
 
 ```js
-const cghd = require("cghd").default;
+const cghd = require("@tykle/cghd").default;
 
 const blockchain = Buffer.from("0x7b298fb321a42d4eca960d17aa2461545ffebfa3480c697374096e56cbfad090")
 

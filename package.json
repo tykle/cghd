@@ -1,5 +1,5 @@
 {
-  "name": "cghd",
+  "name": "@tykle/cghd",
   "version": "1.0.0",
   "description": "Cyclic Group Hashing Distribution - CGHD (256 bits)",
   "main": "lib/index.js",
