@@ -2,7 +2,7 @@
   "name": "cghd",
   "version": "1.0.0",
   "description": "Cyclic Group Hashing Distribution - CGHD (256 bits)",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "build": "tsc",
     "format": "prettier --write \"src/**/*.ts\"",
